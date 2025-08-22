@@ -1,24 +1,15 @@
-# Econometrics & Operations Research Student
+# Interactive Time Series App
 
-Welcome! My name is Atal Katawazi, and I am currently pursuing studies in Econometrics & Operations Research.
+A simple Streamlit app to visualize and interact with generated time series data.
 
-## 💡 About Me
+## Installation
 
-- **Student:** Econometrics & Operations Research
-- **Programming:** Java, Python, MATLAB, R
-- **Skills:** Regression, Machine Learning, Econometrics
+```bash
+pip install -r requirements.txt
+```
 
-## 🔬 Interests
+## Usage
 
-- Data Analysis & Predictive Modeling
-- Applied Econometrics
-- Optimization & Operations Research
-- Machine Learning Algorithms
-
-## 📫 Connect with me
-
-- [LinkedIn: atal-katawazi-968544223](https://www.linkedin.com/in/atal-katawazi-968544223/)
-
----
-
-*Eager to leverage analytical and programming expertise in research or industry roles.*
+```bash
+streamlit run time_series_app.py
+```
